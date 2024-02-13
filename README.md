@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=243&color=gradient&text=김성종&reversal=true&fontAlign=61&textBg=false&animation=fadeIn&strokeWidth=0&descAlign=73&descAlignY=89&fontSize=56&fontAlignY=42&descSize=10" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=243&color=gradient&text=김성종&reversal=true&fontAlign=77&textBg=false&animation=fadeIn&strokeWidth=0&descAlign=73&descAlignY=89&fontSize=56&fontAlignY=42&descSize=10&section=header" />
 
 
 
